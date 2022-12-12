@@ -11,7 +11,8 @@ de uma página web elegante e responsiva. Por falar em responsividade, este proj
 
 
 ## Layout Web
-![projectauax](https://user-images.githubusercontent.com/47039818/206937020-65f63961-6340-4e5a-ad56-01c2ff490cf1.png)
+<img width="240" alt="projectauax" src="https://user-images.githubusercontent.com/47039818/206953912-b4f3152a-2cd1-490f-90a4-7cf1c281eb34.png">
+
 
 ## Front-end
 
