@@ -11,7 +11,16 @@ de uma página web elegante e responsiva. Por falar em responsividade, este proj
 
 
 ## Layout Web
-<img width="240" alt="projectauax" src="https://user-images.githubusercontent.com/47039818/206953912-b4f3152a-2cd1-490f-90a4-7cf1c281eb34.png">
+![awaxweb](https://user-images.githubusercontent.com/47039818/209563500-e923161a-d041-4011-a57f-0211f34a251d.png)
+
+
+## Layout Smartphone
+<img width="250" alt="awaxsmartphone" src="https://user-images.githubusercontent.com/47039818/209570020-02d98dd4-cd14-4bfc-8f40-5d7788867e88.png">
+
+
+## Layout Tablet
+<img width="250" alt="awaxtablet" src="https://user-images.githubusercontent.com/47039818/209570846-532eac0d-b96c-40e6-aa97-6a770a85f1d2.png">
+
 
 
 ## Front-end
